@@ -1,7 +1,7 @@
 # automotive-ml-dwell-time
 # Overview
 
-This project develops a MATLAB-based machine learning model for predicting bus dwell time and supporting predictive engine start-stop decisions.
+This thesis project develops a MATLAB-based machine learning model for predicting bus dwell time and supporting predictive engine start-stop decisions.
 
 ## Objective
 
